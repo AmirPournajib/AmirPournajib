@@ -24,6 +24,8 @@ I started as an electrical and embedded systems engineer, so I can sit with firm
 | Project | What it shows |
 |---|---|
 | [**agentic-intake-copilot**](https://github.com/AmirPournajib/agentic-intake-copilot) | A tested reference for agentic workflows: agent roles, typed tools, guardrails in code, a human-review gate, full traces, and an eval set that runs in CI (Continuous Integration). Comes with a one-page product brief. |
+| [**cuffless-bp-companion**](https://github.com/AmirPournajib/cuffless-bp-companion) | React Native app for iOS and Android: Bluetooth streaming from an ECG and PPG watch, pulse transit time, per-user cuff calibration, offline sync, and a release checklist. A demo inspired by the HealthGauge platform I led, on synthetic data. |
+| [**smart-jacket-firmware**](https://github.com/AmirPournajib/smart-jacket-firmware) | C firmware for the Edge AGI Wearables smart jacket concept: fall detection, an int8 on-device activity model, heart rate, heated zones with safety cut-offs, and a voice link to a local model on a Jetson Nano. Runs in simulation with 221 checks in CI. |
 | [**Portfolio**](https://amirpournajib.github.io) | Case studies: AI agents at My Fertility Labs, the Texavie sensor hub, and HealthGauge connected health. |
 | [**oxygen**](https://github.com/AmirPournajib/oxygen) | The Oxygen Method, a runway-first decision framework for product and program managers that I co-created. |
 | [**circuitmind-studios**](https://github.com/AmirPournajib/circuitmind-studios) | React and Tailwind site for my machine learning workshops, coaching and proof-of-concept services. |
@@ -41,7 +43,9 @@ I started as an electrical and embedded systems engineer, so I can sit with firm
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-555555?logo=c&logoColor=white)
 ![Bluetooth](https://img.shields.io/badge/BLE-0082FC?logo=bluetooth&logoColor=white)
 ![NVIDIA Jetson](https://img.shields.io/badge/Jetson-76B900?logo=nvidia&logoColor=white)
 
